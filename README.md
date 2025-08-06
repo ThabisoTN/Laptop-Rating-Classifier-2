@@ -35,4 +35,4 @@ Class imbalance (51% "Below") subtly biased predictions, emphasizing the need fo
 
 
 
-🔗 [View Full Project Notebook Here](https://github.com/ThabisoTN/Laptop-Rating-Classifier-2/blob/main/21930156.ipynb)
+🔗 [View Full Project Here](https://github.com/ThabisoTN/Laptop-Rating-Classifier-2/blob/main/21930156.ipynb)
