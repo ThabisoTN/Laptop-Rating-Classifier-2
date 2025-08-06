@@ -32,3 +32,7 @@ Screen size (Inches) and RAM are top predictors of high ratings.
 Laptops cluster into two segments: lightweight portables (1.5–2.5 kg) and heavy-duty performers (2.5–4.7 kg).
 
 Class imbalance (51% "Below") subtly biased predictions, emphasizing the need for stratified sampling.
+
+
+
+View Project Here https://github.com/ThabisoTN/Laptop-Rating-Classifier-2/blob/main/21930156.ipynb
